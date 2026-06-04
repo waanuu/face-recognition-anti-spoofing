@@ -4,7 +4,6 @@
 
 This project presents a real-time identity verification system that combines Face Recognition and Face Anti-Spoofing technologies. The system is designed to recognize authorized users while preventing spoofing attacks such as printed photos, replay attacks on mobile devices, and fake face images.
 
-The project was developed as a Graduation Thesis in Artificial Intelligence and Data Science.
 
 ## Features
 
