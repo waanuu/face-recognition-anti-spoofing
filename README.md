@@ -103,17 +103,12 @@ All face images were detected and aligned using SCRFD before training and evalua
 
 ## Demo
 
-### Real User Recognition
 
-<img src="[Ảnh chụp màn hình 2026-05-15 175513.png](https://github.com/waanuu/face-recognition-anti-spoofing/blob/main/%E1%BA%A2nh%20ch%E1%BB%A5p%20m%C3%A0n%20h%C3%ACnh%202026-05-15%20175513.png)" width="700">
+<img src="Ảnh chụp màn hình 2026-05-15 175513.png" width="700">
 
-### Spoof Detection
+<img src="Ảnh chụp màn hình 2026-05-15 180136.png" width="700">
 
-<img src="[screenshots/demo_fake.png](https://github.com/waanuu/face-recognition-anti-spoofing/blob/main/%E1%BA%A2nh%20ch%E1%BB%A5p%20m%C3%A0n%20h%C3%ACnh%202026-05-15%20180136.png)" width="700">
-
-### Identity Verification
-
-<img src="[screenshots/demo_verify.png](https://github.com/waanuu/face-recognition-anti-spoofing/blob/main/%E1%BA%A2nh%20ch%E1%BB%A5p%20m%C3%A0n%20h%C3%ACnh%202026-05-15%20221117.png)" width="700">
+<img src="Ảnh chụp màn hình 2026-05-15 221117.png" width="700">
 
 Demo Video:
 
